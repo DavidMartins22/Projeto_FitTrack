@@ -45,12 +45,12 @@ Este script valida se todas as tabelas do banco `FitTrack` estão populadas corr
 
 ## 🖼️ Evidências Visuais
 
-* [Imagem da Tabela Aluno](imagens/aluno.png)
-* [Imagem da Tabela Treinador](imagens/treinador.png)
-* [Imagem da Tabela PlanoTreino](imagens/plano_treino.png)
-* [Imagem da Tabela RegistroTreino](imagens/registro_treino.png)
-* [Imagem da Tabela Feedback](imagens/feedback.png)
-* [Imagem das Consultas de Demonstração](imagens/consultas.png)
+* <img width="617" height="199" alt="Aluno" src="https://github.com/user-attachments/assets/c8539f4b-6a0f-444f-b663-34c43b53e465" />
+* <img width="475" height="130" alt="exercicio" src="https://github.com/user-attachments/assets/0c1947f2-5b72-409e-8188-46491ff363d6" />
+* <img width="794" height="203" alt="Feedback" src="https://github.com/user-attachments/assets/fcb55cd7-4db9-412e-82ab-08bbbbe626fa" />
+* <img width="561" height="208" alt="plano" src="https://github.com/user-attachments/assets/98d7b796-9ded-4a3d-b896-3e29b202233b" />
+* <img width="541" height="133" alt="professor" src="https://github.com/user-attachments/assets/9bf36bf1-7c8c-4f62-baee-4babd7abffab" />
+
 
 ---
 
