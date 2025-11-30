@@ -11,4 +11,11 @@ Implementar e manipular dados em um banco de dados relacional utilizando comando
 - Scripts organizados em arquivos `.sql`
 
 ## 📂 Estrutura do Repositório
-/FitTrack-SQL ├── 01_create_tables.sql # Criação das tabelas (DDL) ├── 02_insert_data.sql # Inserção de dados iniciais (INSERT) ├── 03_select_queries.sql # Consultas (SELECT com JOIN, WHERE, ORDER BY, LIMIT) ├── 04_update.sql # Atualizações (UPDATE) ├── 05_delete.sql # Exclusões (DELETE) ├── 06_verification.sql # Script de verificação de dados └── README.md # Documentação do projeto
+/FitTrack-SQL 
+├── 01_create_tables.sql # Criação das tabelas (DDL) 
+├── 02_insert_data.sql # Inserção de dados iniciais (INSERT) 
+├── 03_select_queries.sql # Consultas (SELECT com JOIN, WHERE, ORDER BY, LIMIT) 
+├── 04_update.sql # Atualizações (UPDATE) 
+├── 05_delete.sql # Exclusões (DELETE) 
+├── 06_verification.sql # Script de verificação de dados 
+└── README.md # Documentação do projeto
