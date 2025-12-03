@@ -11,18 +11,22 @@ Implementar e manipular dados em um banco de dados relacional utilizando comando
 - Scripts organizados em arquivos `.sql`
 
 ## 📂 Estrutura do Repositório
-FitTrack-SQL/
-├── sql/
-│   ├── 01_create_tables.sql        # Criação de tabelas (DDL)
-│   ├── 02_insert_data.sql          # Inserção de dados inicial (INSERT)
-│   ├── 03_select_queries.sql       # Consultas (JOIN, WHERE, ORDER BY, LIMIT)
-│   ├── 04_update.sql               # Atualizações (UPDATE)
-│   ├── 05_delete.sql               # Exclusões (DELETE)
-│   └── 06_verification.sql         # Verificação de dados
-├── docs/
-│   └── README.md                   # Documentação principal
-├── LICENSE                         # Licença do projeto
-└── .gitignore                      # Arquivos a ignorar no Git
+# FitTrack-SQL 🏋️‍♂️
+
+Projeto de banco de dados para gerenciamento de atividades físicas e usuários.
+
+- `sql/01_create_tables.sql` → Criação das tabelas (DDL)
+- `sql/02_insert_data.sql` → Inserção de dados iniciais
+- `sql/03_select_queries.sql` → Consultas com JOIN, WHERE, ORDER BY, LIMIT
+- `sql/04_update.sql` → Atualizações
+- `sql/05_delete.sql` → Exclusões
+- `sql/06_verification.sql` → Verificação de dados
+
+## 🚀 Como usar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/FitTrack-SQL.git
+
 ## 🚀 Como Executar
 
 1.  **Clone este repositório:**
