@@ -21,6 +21,7 @@ Projeto de banco de dados para gerenciamento de atividades físicas e usuários.
 - `sql/04_update.sql` → Atualizações
 - `sql/05_delete.sql` → Exclusões
 - `sql/06_verification.sql` → Verificação de dados
+- `README.md` → Documentação principal
 
 ## 🚀 Como Executar
 
