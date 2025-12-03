@@ -22,11 +22,6 @@ Projeto de banco de dados para gerenciamento de atividades físicas e usuários.
 - `sql/05_delete.sql` → Exclusões
 - `sql/06_verification.sql` → Verificação de dados
 
-## 🚀 Como usar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/FitTrack-SQL.git
-
 ## 🚀 Como Executar
 
 1.  **Clone este repositório:**
